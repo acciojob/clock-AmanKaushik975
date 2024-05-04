@@ -1,5 +1,4 @@
 //your JS code here. If required.
-
 var timerElement = document.getElementById("timer");
 
 // Function to update date and time
